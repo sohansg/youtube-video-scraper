@@ -31,6 +31,6 @@ def get_youtube_video_data(video_id, api_key):
 
 # Example usage
 video_id = "bn8gP5N8hqM"  # Replace with your video ID
-api_key = "AIzaSyCyGKa0Km2KlAM3rBjmmnD2dBowdv8Iz84"  # Replace with your actual API key
+api_key = "fetch the api key from google api"  # Replace with your actual API key
 data = get_youtube_video_data(video_id, api_key)
 print(data)
